@@ -1,0 +1,70 @@
+compound,LPS0,LPS1,LPS2
+1_3-diphopshateglycerate,1,0.809995,0.427448
+3-Methyl-2-oxobutanoic acid,1,0.799709,0.63384
+2-Oxobutanoate,1,0.875128,0.637302
+3-hydroxybutyryl-CoA,1,0.872131,0.778518
+O-Phospho-L-serine,1,0.442469,0.223711
+3-Phospho-D-glycerate,1,2.107711,1.256567
+2-Oxoglutarate,1,4.528543,2.753683
+Acetyl-CoA,1,0.638888,0.522682
+Adenine,1,0.642337,0.550528
+Adenosine,1,0.588422,0.321122
+ADP,1,0.677318,0.576437
+ADP,1,2.726257,2.838382
+ADP-glucose,1,0.883182,0.714524
+L-Alanine,1,0.869049,0.684803
+L-Arginine,1,0.998082,0.572819
+L-Asparagine,1,0.848849,0.617853
+L-Aspartate,1,1.014327,0.771472
+ATP,1,0.638319,0.602407
+Betaine,1,0.829059,0.482364
+Biotin,1,0.839884,0.462728
+CDP,1,0.279418,0.108816
+citrate/isocitrate,1,0.85359,0.681629
+CMP,1,0.946444,0.773705
+CTP,1,0.555752,0.520822
+3--5--Cyclic AMP,1,0.782831,0.525716
+Cytidine,1,0.774089,0.552543
+D-Gluconic acid,1,0.755439,0.532534
+fructose-1-6-bisphosphate,1,0.522821,0.30901
+Fumarate,1,0.817137,0.551939
+GDP,1,1.526313,1.068074
+D-Glucose 1-phosphate,1,0.53464,0.343011
+D-Fructose 6-phosphate,1,0.845344,0.571954
+L-Glutamate,1,0.749906,0.518475
+L-Glutamine,1,1.148264,0.758246
+Glutathione,1,1.549458,1.292079
+Glutathione disulfide,1,0.945379,0.620056
+Glycine,1,1.155104,0.915614
+GTP,1,0.605241,0.595106
+Guanosine,1,0.541991,0.342238
+L-Histidine,1,1.245361,0.834103
+trans-4-Hydroxy-L-proline,1,0.965177,0.689191
+N-(L-Arginino)succinate,1,0.907172,0.688953
+lactate,1,0.690565,0.470023
+L-Leucine,1,0.959552,0.593567
+L-Leucine,1,0.971605,0.573898
+L-Lysine,1,1.798699,1.091399
+malate,1,0.555721,0.261258
+L-Phenylalanine,1,1.012814,0.610343
+Phenyllactic acid,1,0.981187,0.631965
+Phenylpyruvate,1,0.384123,0.470408
+Phosphoenolpyruvate,1,1.717208,1.349809
+Pyroglutamic acid,1,0.834703,0.533583
+pyruvate,1,0.908618,0.686823
+serine,1,0.979459,1.076211
+succinate,1,0.967237,0.784068
+taurine,1,1.279283,1.136551
+thymine,1,0.455241,0.735366
+tryptophan,1,0.73608,0.49949
+tyrosine,1,0.787752,0.514517
+UDP,1,0.814069,0.640394
+UDP-D-glucose,1,0.828556,0.694733
+UDP-D-glucuronate,1,1.010656,1.678495
+Uric acid,1,0.68987,0.487396
+xanthosine,1,0.70822,0.499546
+a-ketoglutarate,1,4.528543,2.753683
+D-Ribose 5-phosphate,1,0.864225,0.610332
+D-Ribose 5-diphosphate,1,0.677742,0.259204
+Cellulose,1,0.783587,0.673244
+valine,1,0.696187,0.482364
